@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GithubBrower</string>
+
+    <string name="format_star">Star:%1$d</string>
+    <string name="format_fork">Fork:%1$d</string>
+</resources>

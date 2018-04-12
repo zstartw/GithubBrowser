@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="main_list_bg">#f1f1f1</color>
+    <color name="main_window_background">#eeeeee</color>
+    <color name="progressbar_bg">#F37800</color><!--加载进度框中的圆环-->
+</resources>
