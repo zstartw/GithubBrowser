@@ -4,7 +4,7 @@
 
 ## 截图
 
-![](https://github.com/ZhengXiaoWu/GithubBrowser/blob/master/screenshot/device-2018-04-13-113638.png)
+![](https://github.com/zstartw/GithubBrowser/blob/master/screenshot/device-2018-04-13-113638.png)
 
 ## 框架
 
