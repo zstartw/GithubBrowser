@@ -15,8 +15,9 @@ import java.util.List;
  * Created by zhengwu on 4/11/18.
  */
 public class HomeAdapter extends BaseQuickAdapter<Repo, BaseViewHolder> {
-    public HomeAdapter(int layoutResId, List data) {
-        super(layoutResId, data);
+
+    public HomeAdapter(int layoutResId) {
+        super(layoutResId);
     }
 
     @Override
